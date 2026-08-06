@@ -141,41 +141,52 @@
   <div id="html-code"></div>
     <h4>HTML5</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="HTML" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/html.svg" alt="HTML" width="40" height="40" />
+
   <div id="css-code"></div>
     <h4>CSS3</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="CSS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/css.svg" alt="CSS" width="40" height="40" />
+
   <div id="sass-code"></div>
     <h4>SASS (SCSS)</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="SASS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/scss.svg" alt="SASS" width="40" height="40" />
+
   <div id="tailwind-code"></div>
     <h4>TailwindCss</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="Tailwind" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/tailwindcss.svg"
+     alt="Tailwind" width="40" height="40" />
+
   <div id="bootstrap-code"></div>
     <h4>Bootstrap</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="Bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/bootstrap.svg"alt="Bootstrap" width="40" height="40" />
+
   <div id="js-code"></div>
     <h4>JavaScript</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/javascript.svg" alt="JavaScript" width="40" height="40" />
+
   <div id="ts-code"></div>
     <h4>TypeScript</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="TypeScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/typescript.svg" alt="TypeScript" width="40" height="40" />
+
   <div id="react-code"></div>
     <h4>React</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="React" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react.svg" alt="React" width="40" height="40" />
+
   <div id="vue-code"></div>
     <h4>Vue</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="Vue" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/vue.svg" alt="Vue" width="40" height="40" />
+
   <div id="angular-code"></div>
     <h4>Angular</h4>
 
-    <img src="https://raw.githubusercontent.com/" alt="Angular" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/angular.svg" alt="Angular" width="40" height="40" />
+
 </div>
