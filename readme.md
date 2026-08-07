@@ -352,100 +352,100 @@
   <div id="next-code"></div>
     <h4>Next</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/next.svg" alt="Next" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/next.svg" alt="Next" width="40" height="40" />
 
   <div id="nuxt-code"></div>
     <h4>Nuxt</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/nuxt.svg" alt="Nuxt" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/nuxt.svg" alt="Nuxt" width="40" height="40" />
 
   <div id="axios-code"></div>
     <h4>Axios</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/axios.svg" alt="Axios" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/axios.svg" alt="Axios" width="40" height="40" />
 
   <div id="redux-code"></div>
     <h4>Redux</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/redux.svg" alt="Redux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/redux.svg" alt="Redux" width="40" height="40" />
 
   <div id="react-router-code"></div>
     <h4>React Router</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-router.svg" alt="React Router" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/react-router.svg" alt="React Router" width="40" height="40" />
 
   <div id="react-query-code"></div>
     <h4>React Query</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-query.svg" alt="React Query" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/react-query.svg" alt="React Query" width="40" height="40" />
 
   <div id="react-hook-form-code"></div>
     <h4>React Hook Form</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-hook-form.svg" alt="React Hook Form" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/react-hook-form.svg" alt="React Hook Form" width="40" height="40" />
 
   <div id="formik-code"></div>
     <h4>Formik</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/formik.svg" alt="Formik" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/formik.svg" alt="Formik" width="40" height="40" />
 
   <div id="zod-code"></div>
     <h4>Zod</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/zod.svg" alt="Zod" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/zod.svg" alt="Zod" width="40" height="40" />
 
   <div id="zustand-code"></div>
     <h4>Zustand</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/zustand.svg" alt="Zustand" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/zustand.svg" alt="Zustand" width="40" height="40" />
 
   <div id="shadcn-code"></div>
     <h4>Shadcn</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/shadcn.svg" alt="Shadcn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/shadcn.svg" alt="Shadcn" width="40" height="40" />
 
   <div id="mui-code"></div>
     <h4>MUI</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/mui.svg" alt="Mui" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/mui.svg" alt="Mui" width="40" height="40" />
 
   <div id="ant-design-code"></div>
     <h4>AntDesign</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/ant-design.svg" alt="AntDesign" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/ant-design.svg" alt="AntDesign" width="40" height="40" />
 
   <div id="threejs-code"></div>
     <h4>Three.js</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/threejs.svg" alt="Three.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/threejs.svg" alt="Three.js" width="40" height="40" />
 
   <div id="svelte-code"></div>
     <h4>Svelte</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/svelte.svg" alt="Svelte" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/svelte.svg" alt="Svelte" width="40" height="40" />
 
   <div id="react-flow-code"></div>
     <h4>React Flow</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-flow.svg" alt="React Flow" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/react-flow.svg" alt="React Flow" width="40" height="40" />
 
   <div id="electron-code"></div>
     <h4>Electron</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/electron.svg" alt="Electron" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/electron.svg" alt="Electron" width="40" height="40" />
 
   <div id="tauri-code"></div>
     <h4>Tauri</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/tauri.svg" alt="Tauri" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/tauri.svg" alt="Tauri" width="40" height="40" />
 
   <div id="pwa-code"></div>
     <h4>PWA</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/pwa.svg" alt="PWA" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/pwa.svg" alt="PWA" width="40" height="40" />
 
   <div id="pinia-code"></div>
     <h4>Pinia</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/pinia.svg" alt="Pinia" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/pinia.svg" alt="Pinia" width="40" height="40" />
 </div>
