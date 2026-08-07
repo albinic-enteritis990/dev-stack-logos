@@ -291,6 +291,46 @@
             width="22"
           />
         </a>
+        <a href="#astro-code">
+          <img 
+            src="./icons/frontend/astro.svg"
+            alt="Astro"
+            title="Astro"
+            width="22"
+          />
+        </a>
+        <a href="#gsap-code">
+          <img 
+            src="./icons/frontend/gsap.svg"
+            alt="GSAP"
+            title="GSAP"
+            width="22"
+          />
+        </a>
+        <a href="#graphql-code">
+          <img 
+            src="./icons/frontend/graphql.svg"
+            alt="Graphql"
+            title="Graphql"
+            width="22"
+          />
+        </a>
+        <a href="#i18next-code">
+          <img 
+            src="./icons/frontend/i18next.svg"
+            alt="i18next"
+            title="i18next"
+            width="22"
+          />
+        </a>
+        <a href="#styled-components-code">
+          <img 
+            src="./icons/frontend/styled-components.svg"
+            alt="styled-components"
+            title="styled-components"
+            width="22"
+          />
+        </a>
       </td>
     </tr>
   </table>
@@ -448,4 +488,29 @@
     <h4>Pinia</h4>
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/pinia.svg" alt="Pinia" width="40" height="40" />
+
+  <div id="astro-code"></div>
+    <h4>Astro</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/astro.svg" alt="Astro" width="40" height="40" />
+
+  <div id="gsap-code"></div>
+    <h4>GSAP</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/gsap.svg" alt="GSAP" width="40" height="40" />
+
+  <div id="graphql-code"></div>
+    <h4>Graphql</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/graphql.svg" alt="Graphql" width="40" height="40" />
+
+  <div id="i18next-code"></div>
+    <h4>i18next</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/i18next.svg" alt="i18next" width="40" height="40" />
+
+  <div id="styled-components-code"></div>
+    <h4>Styled-Components</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/styled-components.svg" alt="styled-components" width="40" height="40" />
 </div>
