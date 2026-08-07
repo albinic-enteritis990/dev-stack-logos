@@ -492,25 +492,25 @@
   <div id="astro-code"></div>
     <h4>Astro</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/astro.svg" alt="Astro" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/astro.svg" alt="Astro" width="40" height="40" />
 
   <div id="gsap-code"></div>
     <h4>GSAP</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/gsap.svg" alt="GSAP" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/gsap.svg" alt="GSAP" width="40" height="40" />
 
   <div id="graphql-code"></div>
     <h4>Graphql</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/graphql.svg" alt="Graphql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/graphql.svg" alt="Graphql" width="40" height="40" />
 
   <div id="i18next-code"></div>
     <h4>i18next</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/i18next.svg" alt="i18next" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/i18next.svg" alt="i18next" width="40" height="40" />
 
   <div id="styled-components-code"></div>
     <h4>Styled-Components</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/7cce9af24e8b041f18fdd8409599414257a56ad8/icons/frontend/styled-components.svg" alt="styled-components" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/959fa07fb75d741407c6d78abf5cad421c6cb910/icons/frontend/styled-components.svg" alt="styled-components" width="40" height="40" />
 </div>
