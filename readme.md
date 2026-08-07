@@ -56,7 +56,7 @@
             src="./icons/frontend/html.svg"
             alt="HTML"
             title="HTML5"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#css-code">
@@ -64,7 +64,7 @@
             src="./icons/frontend/css.svg"
             alt="CSS"
             title="CSS3"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#sass-code">
@@ -72,7 +72,7 @@
             src="./icons/frontend/scss.svg"
             alt="SASS"
             title="SASS (SCSS)"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#tailwind-code">
@@ -80,7 +80,7 @@
             src="./icons/frontend/tailwindcss.svg"
             alt="TailwindCss"
             title="TailwindCss"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#bootstrap-code">
@@ -88,7 +88,7 @@
             src="./icons/frontend/bootstrap.svg"
             alt="Bootstrap"
             title="Bootstrap"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#js-code">
@@ -96,7 +96,7 @@
             src="./icons/frontend/javascript.svg"
             alt="JavaScript"
             title="JavaScript"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#ts-code">
@@ -104,7 +104,7 @@
             src="./icons/frontend/typescript.svg"
             alt="TypeScript"
             title="TypeScript"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#react-code">
@@ -112,7 +112,7 @@
             src="./icons/frontend/react.svg"
             alt="React"
             title="React.js"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#vue-code">
@@ -120,7 +120,7 @@
             src="./icons/frontend/vue.svg"
             alt="Vue"
             title="Vue.js"
-            width="20"
+            width="22"
           />
         </a>
         <a href="#angular-code">
@@ -128,7 +128,167 @@
             src="./icons/frontend/angular.svg"
             alt="Angular"
             title="Angular.js"
-            width="20"
+            width="22"
+          />
+        </a>
+        <a href="#next-code">
+          <img 
+            src="./icons/frontend/next.svg"
+            alt="Next"
+            title="Next.js"
+            width="22"
+          />
+        </a>
+        <a href="#nuxt-code">
+          <img 
+            src="./icons/frontend/nuxt.svg"
+            alt="Nuxt"
+            title="Nuxt.js"
+            width="22"
+          />
+        </a>
+        <a href="#axios-code">
+          <img 
+            src="./icons/frontend/axios.svg"
+            alt="Axios"
+            title="Axios.js"
+            width="22"
+          />
+        </a>
+        <a href="#redux-code">
+          <img 
+            src="./icons/frontend/redux.svg"
+            alt="Redux"
+            title="Redux.js"
+            width="22"
+          />
+        </a>
+        <a href="#react-router-code">
+          <img 
+            src="./icons/frontend/react-router.svg"
+            alt="React-Router"
+            title="React-Router"
+            width="22"
+          />
+        </a>
+        <a href="#react-query-code">
+          <img 
+            src="./icons/frontend/react-query.svg"
+            alt="React-Query"
+            title="React-Query"
+            width="22"
+          />
+        </a>
+        <a href="#react-hook-form-code">
+          <img 
+            src="./icons/frontend/react-hook-form.svg"
+            alt="React-Hook-Form"
+            title="React-Hook-Form"
+            width="22"
+          />
+        </a>
+        <a href="#formik-code">
+          <img 
+            src="./icons/frontend/formik.svg"
+            alt="Formik"
+            title="Formik"
+            width="22"
+          />
+        </a>
+        <a href="#zod-code">
+          <img 
+            src="./icons/frontend/zod.svg"
+            alt="Zod"
+            title="Zod"
+            width="22"
+          />
+        </a>
+        <a href="#zustand-code">
+          <img 
+            src="./icons/frontend/zustand.svg"
+            alt="Zustand"
+            title="Zustand"
+            width="22"
+          />
+        </a>
+        <a href="#shadcn-code">
+          <img 
+            src="./icons/frontend/shadcn.svg"
+            alt="Shadcn"
+            title="Shadcn"
+            width="22"
+          />
+        </a>
+        <a href="#mui-code">
+          <img 
+            src="./icons/frontend/mui.svg"
+            alt="Mui"
+            title="Mui"
+            width="22"
+          />
+        </a>
+        <a href="#ant-design-code">
+          <img 
+            src="./icons/frontend/ant-design.svg"
+            alt="AntDesign"
+            title="AntDesign"
+            width="22"
+          />
+        </a>
+        <a href="#threejs-code">
+          <img 
+            src="./icons/frontend/threejs.svg"
+            alt="Three.js"
+            title="Three.js"
+            width="22"
+          />
+        </a>
+        <a href="#svelte-code">
+          <img 
+            src="./icons/frontend/svelte.svg"
+            alt="Svelte"
+            title="Svelte"
+            width="22"
+          />
+        </a>
+        <a href="#react-flow-code">
+          <img 
+            src="./icons/frontend/react-flow.svg"
+            alt="React-Flow"
+            title="React-Flow"
+            width="22"
+          />
+        </a>
+        <a href="#electron-code">
+          <img 
+            src="./icons/frontend/electron.svg"
+            alt="Electron.js"
+            title="Electron.js"
+            width="22"
+          />
+        </a>
+        <a href="#tauri-code">
+          <img 
+            src="./icons/frontend/tauri.svg"
+            alt="Tauri"
+            title="Tauri"
+            width="22"
+          />
+        </a>
+        <a href="#pwa-code">
+          <img 
+            src="./icons/frontend/pwa.svg"
+            alt="PWA"
+            title="PWA"
+            width="22"
+          />
+        </a>
+        <a href="#pinia-code">
+          <img 
+            src="./icons/frontend/pinia.svg"
+            alt="Pinia"
+            title="Pinia"
+            width="22"
           />
         </a>
       </td>
@@ -162,7 +322,7 @@
   <div id="bootstrap-code"></div>
     <h4>Bootstrap</h4>
 
-    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/bootstrap.svg"alt="Bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/bootstrap.svg" alt="Bootstrap" width="40" height="40" />
 
   <div id="js-code"></div>
     <h4>JavaScript</h4>
@@ -189,4 +349,103 @@
 
     <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/angular.svg" alt="Angular" width="40" height="40" />
 
+  <div id="next-code"></div>
+    <h4>Next</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/next.svg" alt="Next" width="40" height="40" />
+
+  <div id="nuxt-code"></div>
+    <h4>Nuxt</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/nuxt.svg" alt="Nuxt" width="40" height="40" />
+
+  <div id="axios-code"></div>
+    <h4>Axios</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/axios.svg" alt="Axios" width="40" height="40" />
+
+  <div id="redux-code"></div>
+    <h4>Redux</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/redux.svg" alt="Redux" width="40" height="40" />
+
+  <div id="react-router-code"></div>
+    <h4>React Router</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-router.svg" alt="React Router" width="40" height="40" />
+
+  <div id="react-query-code"></div>
+    <h4>React Query</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-query.svg" alt="React Query" width="40" height="40" />
+
+  <div id="react-hook-form-code"></div>
+    <h4>React Hook Form</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-hook-form.svg" alt="React Hook Form" width="40" height="40" />
+
+  <div id="formik-code"></div>
+    <h4>Formik</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/formik.svg" alt="Formik" width="40" height="40" />
+
+  <div id="zod-code"></div>
+    <h4>Zod</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/zod.svg" alt="Zod" width="40" height="40" />
+
+  <div id="zustand-code"></div>
+    <h4>Zustand</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/zustand.svg" alt="Zustand" width="40" height="40" />
+
+  <div id="shadcn-code"></div>
+    <h4>Shadcn</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/shadcn.svg" alt="Shadcn" width="40" height="40" />
+
+  <div id="mui-code"></div>
+    <h4>MUI</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/mui.svg" alt="Mui" width="40" height="40" />
+
+  <div id="ant-design-code"></div>
+    <h4>AntDesign</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/ant-design.svg" alt="AntDesign" width="40" height="40" />
+
+  <div id="threejs-code"></div>
+    <h4>Three.js</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/threejs.svg" alt="Three.js" width="40" height="40" />
+
+  <div id="svelte-code"></div>
+    <h4>Svelte</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/svelte.svg" alt="Svelte" width="40" height="40" />
+
+  <div id="react-flow-code"></div>
+    <h4>React Flow</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/react-flow.svg" alt="React Flow" width="40" height="40" />
+
+  <div id="electron-code"></div>
+    <h4>Electron</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/electron.svg" alt="Electron" width="40" height="40" />
+
+  <div id="tauri-code"></div>
+    <h4>Tauri</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/tauri.svg" alt="Tauri" width="40" height="40" />
+
+  <div id="pwa-code"></div>
+    <h4>PWA</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/pwa.svg" alt="PWA" width="40" height="40" />
+
+  <div id="pinia-code"></div>
+    <h4>Pinia</h4>
+
+    <img src="https://raw.githubusercontent.com/alirezamoradiii/dev-stack-logos/acaa30ac229df277d6e036f4585d4f80624f2e4f/icons/frontend/pinia.svg" alt="Pinia" width="40" height="40" />
 </div>
